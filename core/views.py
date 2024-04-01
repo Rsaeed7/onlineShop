@@ -10,3 +10,5 @@ def home(request):
 
 def aboutUs(request):
     return render(request, 'core/aboutus.html')
+
+
